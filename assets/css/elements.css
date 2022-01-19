@@ -2056,13 +2056,14 @@ ul.nav.nav-tabs {
 /* #Video */
 .swin-sc-video {
   position: relative;
-  min-height: 100px; }
+  min-height: 25px; }
   .swin-sc-video .play-wrap {
     position: absolute;
-    left: 50%;
-    top: 50%;
-    margin-left: -25px;
-    margin-top: -25px; }
+    left: 2%;
+    top: 5%;    
+    margin-left: 25px;
+    margin-top: 25px; 
+    margin-bottom: 100px;}
   .swin-sc-video .play-btn {
     display: inline-block;
     position: relative;
