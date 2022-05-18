@@ -53,6 +53,11 @@ h1, h2, h3, h4, h5, h6 {
 .swin-bg-transparent {
   background: transparent !important; }
 
+  /* #Flipdish*/
+  .flipdish-menu header{
+    position:initial !important
+  }
+
 /* #Slider Arrow */
 .slick-arrow {
   position: absolute;
@@ -1551,3 +1556,4 @@ a#open-popup {
   width: 25px;
   height: 25px;
   border-radius: 50%; }
+
