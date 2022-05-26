@@ -58,6 +58,16 @@ h1, h2, h3, h4, h5, h6 {
     position:initial !important
   }
 
+  /* #Voucher*/
+  #button{
+   border-color: transparent;
+    width: 80px;
+    height: 30px;
+    color:white;
+    background: #D4AF37;
+  }
+  
+
 /* #Slider Arrow */
 .slick-arrow {
   position: absolute;
